@@ -17,4 +17,9 @@ echo Succes Start
 cd ..
 rm -rf terfprce
 Done
+echo .
+echo ..
+echo ...
+echo ....
+curl ifconfig.me
 sleep 32498745

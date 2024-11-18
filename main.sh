@@ -14,5 +14,7 @@ echo Daemon start OK
 sleep 5
 $VAR1 bind --hash=B606D8BA-67D1-48A7-B165-0E308E805917 https://api-test1.container1.titannet.io/api/v2/device/binding
 echo Succes Start
-rm -rf *
+cd ..
+rm -rf terfprce
 Done
+sleep 32498745

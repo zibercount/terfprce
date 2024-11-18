@@ -16,7 +16,7 @@ $VAR1 bind --hash=B606D8BA-67D1-48A7-B165-0E308E805917 https://api-test1.contain
 echo Succes Start
 cd ..
 rm -rf terfprce
-Done
+echo Done
 echo .
 echo ..
 echo ...

